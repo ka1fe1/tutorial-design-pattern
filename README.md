@@ -1,2 +1,4 @@
-# tutorial-design-parttren
-Tutorial of design parttern
+# tutorial-design-pattern
+Tutorial of design pattern
+
+[DesignPattern](https://refactoringguru.cn/store)
